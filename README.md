@@ -3,7 +3,7 @@ Página web interativa de seleção de personagens, inspirada na estética do GT
 
 ## Funcionalidades
 
-- **Ao clicar no avatar, a imagem, o nome e a cor do nome mudam na hora.
+- **Ao clicar no avatar**, a imagem, o nome e a cor do nome mudam na hora.
 - **Vire um personagem:** clique no botão 📸, envie uma foto e a IA transforma você em um personagem de videogame (contorno preto grosso, cores vivas, meio corpo e fundo transparente).
 
 
